@@ -1,11 +1,5 @@
 # Movie Recommender System
 
-Here's a suggested `README.md` file for your Movie Recommender System project:
-
----
-
-# Movie Recommender System
-
 This project is a Movie Recommender System that suggests movies similar to the user's input. The system uses the [TMDb API](https://www.themoviedb.org/documentation/api) to fetch movie posters and is built using Streamlit for the web interface.
 
 ## Features
