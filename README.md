@@ -1,4 +1,5 @@
 # Movie Recommender System
+A content based movie recommender system using cosine similarity.
 
 This project is a Movie Recommender System that suggests movies similar to the user's input. The system uses the [TMDb API](https://www.themoviedb.org/documentation/api) to fetch movie posters and is built using Streamlit for the web interface.
 
