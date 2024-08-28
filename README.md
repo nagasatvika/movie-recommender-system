@@ -11,7 +11,7 @@ This project is a Movie Recommender System that suggests movies similar to the u
 ## Prerequisites
 
 To run this project, you need the following installed:
-
+- Google Collab/Jupyter Notebook
 - Python 3.x
 - Streamlit
 - Requests
